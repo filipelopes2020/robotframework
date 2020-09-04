@@ -11,7 +11,7 @@ FirstSeleniumTest
     Open Browser      https://google.com    chrome
     #Open Browser      https://google.com    ${browser}
     Set Browser Implicit Wait    5
-    Input Text        name=q     Automation step by step
+    Input Text        name=q     Joao 3:16
     Press Keys        name=q     ENTER
     #Click Button      name=btnK          
     Sleep    2    
